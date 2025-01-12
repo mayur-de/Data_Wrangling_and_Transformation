@@ -11,7 +11,7 @@
 
 1. [**Data Wrangling (1) - Badly Structured Data**](https://github.com/mayur-de/Data_Wrangling_and_Transformation/blob/416e2452b2b241703eeebd3e3f9d6baa56c10273/Data%20Wrangling%20(1)%20-%20Badly%20Structured%20Data.ipynb)
 - **Details:** Fix poorly structured datasets and reformat for analysis. 
-- [**Dataset:**](https://github.com/mayur-de/Data_Wrangling_and_Transformation/blob/416e2452b2b241703eeebd3e3f9d6baa56c10273/Datasets/Badly%20Structured%20Sales%20Data.xlsx)
+- **Dataset:**[Badly Structured Sales Data](https://github.com/mayur-de/Data_Wrangling_and_Transformation/blob/416e2452b2b241703eeebd3e3f9d6baa56c10273/Datasets/Badly%20Structured%20Sales%20Data.xlsx)
   
 2. **Data Wrangling (2) - Column Split and Melt**  
 - **Details:** Transform wide data into tidy, long format using splits and melts.  
