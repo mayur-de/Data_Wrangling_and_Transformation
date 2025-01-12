@@ -44,7 +44,7 @@
 ### **Usage**  
 1. Clone the repository:  
    ```bash
-   git clone [https://github.com/your-username/Data_Wrangling_and_Transformation.git](https://github.com/mayur-de/Data_Wrangling_and_Transformation.git)
+   https://github.com/mayur-de/Data_Wrangling_and_Transformation.git
    ```  
 2. Install Python dependencies (if applicable):  
    ```bash
