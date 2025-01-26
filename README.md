@@ -3,8 +3,7 @@
 
 ## **Overview**  
 - Repository for cleaning, transforming, and preparing datasets for analysis.  
-- Includes SQL queries, Python scripts (`pandas`, `numpy`, `re`), and Power Query files.  
-- Focus on reshaping, error detection, and preparing data for deeper analysis.  
+- Includes SQL queries, Python scripts (`pandas`, `numpy`, `re`) files.   
 
 ---
 
