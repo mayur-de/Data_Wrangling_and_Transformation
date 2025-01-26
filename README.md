@@ -1,13 +1,12 @@
-# **Data Wrangling and Transformation**
----
+> # **Data Wrangling and Transformation**
 
-## **Overview**  
+> ## **Overview**  
 - Repository for cleaning, transforming, and preparing datasets for analysis.  
 - Includes SQL queries, Python scripts (`pandas`, `numpy`, `re`) files.   
 
 ---
 
-## **Project List**  
+> ## **Project List**  
 ---
 1. [**Data Wrangling (1) - Badly Structured Data**](https://github.com/mayur-de/Data_Wrangling_and_Transformation/blob/416e2452b2b241703eeebd3e3f9d6baa56c10273/Data%20Wrangling%20(1)%20-%20Badly%20Structured%20Data.ipynb)
 - **Details:** Fix poorly structured datasets and reformat for analysis. 
@@ -45,14 +44,14 @@
   
 ---
 
-## **Features**  
+> ## **Features**  
 - Step-by-step techniques for common data challenges.  
 - SQL, Python, and Power Query examples.  
 - Applicable to real-world datasets.  
 
 ---
 
-## **Usage**  
+> ## **How to Use**  
 1. Clone the repository:  
    ```bash
    https://github.com/mayur-de/Data_Wrangling_and_Transformation.git
@@ -62,8 +61,8 @@
    pip install pandas numpy re
    ```  
 ---
-## **Contributing**  
+> ## **How to Contribute**  
 - Contributions are welcome via pull requests.  
 ---
-## **License**  
+> ## **License**  
 - MIT License.  
