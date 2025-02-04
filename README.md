@@ -39,7 +39,7 @@
 
 > ## **Features**  
 - Step-by-step techniques for common data challenges.  
-- SQL, Python, and Power Query examples.  
+- Python and respective libraries are used to complete tasks. 
 - Applicable to real-world datasets.  
 
 ---
