@@ -42,7 +42,6 @@
 - Python and respective libraries are used to complete tasks. 
 - Applicable to real-world datasets.  
 
----
 
 > ## **How to Use**  
 1. Clone the repository:  
@@ -53,9 +52,9 @@
    ```bash
    pip install pandas numpy re
    ```  
----
+
 > ## **How to Contribute**  
 - Contributions are welcome via pull requests.  
----
+
 > ## **License**  
 - MIT License.  
