@@ -4,7 +4,6 @@
 - Repository for cleaning, transforming, and preparing datasets for analysis.  
 - Includes Python scripts (`pandas`, `numpy`, `re`) files.  
 
-
 > ## **Project List**  
 
 `1.` [**Data Wrangling (1) - Badly Structured Data**](https://github.com/mayur-de/Data_Wrangling_and_Transformation/blob/416e2452b2b241703eeebd3e3f9d6baa56c10273/Data%20Wrangling%20(1)%20-%20Badly%20Structured%20Data.ipynb)
@@ -33,7 +32,7 @@
 
 > ## **Features**  
 - Step-by-step techniques for common data challenges.  
-- Python and respective libraries are used to complete tasks. 
+- Python and respective libraries (`numpy`, `pandas`, `re`)are used to complete tasks. 
 - Applicable to real-world datasets.  
 
 
