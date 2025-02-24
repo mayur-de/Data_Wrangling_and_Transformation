@@ -6,11 +6,11 @@
 
 > ## **Project List**  
 
-`1.` [**Data Wrangling (1) - Badly Structured Data**](https://github.com/mayur-de/Data_Wrangling_and_Transformation/blob/416e2452b2b241703eeebd3e3f9d6baa56c10273/Data%20Wrangling%20(1)%20-%20Badly%20Structured%20Data.ipynb)
+`1.` [**Data Wrangling (1) - Badly Structured Data**]()
 - **Details:** Fix poorly structured datasets and reformat for analysis. 
 - **Dataset:** [**_`Badly Structured Sales Data.xlsx`_**](https://github.com/mayur-de/Data_Wrangling_and_Transformation/blob/416e2452b2b241703eeebd3e3f9d6baa56c10273/Datasets/Badly%20Structured%20Sales%20Data.xlsx)
 
-`2.` [**Data Wrangling (2) - Column Split and Melt**](https://github.com/mayur-de/Data_Wrangling_and_Transformation/blob/4d144e3bee40df161dff061c3cb2376092ffdc77/Data%20Wrangling%20(2)%20-%20Column%20Split%20and%20Melt.ipynb) 
+`2.` [**Data Wrangling (2) - Column Split and Melt**]() 
 - **Details:** Transform wide data into tidy, long format using splits and melts.  
 - **Dataset:** [**_`Roadmap.xlsx`_**](https://github.com/mayur-de/Data_Wrangling_and_Transformation/blob/4d144e3bee40df161dff061c3cb2376092ffdc77/Datasets/Roadmap.xlsx)
 
