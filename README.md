@@ -1,10 +1,10 @@
-> # **Data Wrangling and Transformation**
+# **Data Wrangling and Transformation**
 
-> ## **Overview**  
+## **Overview**  
 - Repository for cleaning, transforming, and preparing datasets for analysis.  
 - Includes Python scripts (`pandas`, `numpy`, `re`) files.  
 
-> ## **Project List**  
+## **Project List**  
 
 `1.` [**Data Wrangling (1) - Badly Structured Data**]()
 - **Details:** Fix poorly structured datasets and reformat for analysis. 
