@@ -4,7 +4,7 @@
 - Repository for cleaning, transforming, and preparing datasets for analysis.  
 - Includes Python scripts (`pandas`, `numpy`, `re`) files.  
 
-## **Project List**  
+## **Featured Case Studies**  
 
 `1.` [**01_Badly_Structured_Data_Transformation**](https://github.com/mayur-de/Data_Wrangling_and_Transformation/blob/c0ca78591639ce7eff511736e6e5fba7f1c2038c/01_Badly_Structured_Data_Transformation.ipynb)
 - **Details:** Fix poorly structured datasets and reformat for analysis. 
