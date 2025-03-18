@@ -22,11 +22,11 @@
 - **Details:** Extract multi-value fields into separate rows using splitting and exploding.  
 - **Dataset:** [**_`Invoices-with-Merged-Categories-and-Merged-Amounts.xlsx`_**](https://github.com/mayur-de/Data_Wrangling_and_Transformation/blob/466a92eb8f0bc3812d6c2eb79a697afe94d36676/Datasets/Invoices-with-Merged-Categories-and-Merged-Amounts.xlsx)
 
-`5.` [**Data Wrangling (5) - Regex Match and Split**](https://github.com/mayur-de/Data_Wrangling_and_Transformation/blob/466a92eb8f0bc3812d6c2eb79a697afe94d36676/Data%20Wrangling%20(5)%20-%20Regex%20Match%20and%20Split.ipynb)
+`5.` [**05_Regex_Match_and_Split**](https://github.com/mayur-de/Data_Wrangling_and_Transformation/blob/4625b8ab9accf57d76777c9879d45e631ba658f5/05_Regex_Match_and_Split.ipynb)
 - **Details:** Use regular expressions to identify, extract, and split patterns in data.  
 - **Dataset:** [**_`Jumbled-up-Customers-Details.xlsx`_**](https://github.com/mayur-de/Data_Wrangling_and_Transformation/blob/466a92eb8f0bc3812d6c2eb79a697afe94d36676/Datasets/Jumbled-up-Customers-Details.xlsx)
 
-`6.` [**Data Wrangling (6) - Extract from Mixed-up Columns**](https://github.com/mayur-de/Data_Wrangling_and_Transformation/blob/466a92eb8f0bc3812d6c2eb79a697afe94d36676/Data%20Wrangling%20(6)%20-%20Extract%20from%20Mixedup%20Columns.ipynb)  
+`6.` [**06_Extract_From_Mixedup_Columns**](https://github.com/mayur-de/Data_Wrangling_and_Transformation/blob/8c6a35703fd1d39eac05ede650a7ba090f951ce6/06_Extract_From_Mixedup_Columns.ipynb)
 - **Details:** Separate mixed data in single columns into distinct components.  
 - **Dataset:** [**_`Medicine-Data-with-lumped-Quantity-and-Measure.xlsx`_**](https://github.com/mayur-de/Data_Wrangling_and_Transformation/blob/466a92eb8f0bc3812d6c2eb79a697afe94d36676/Datasets/Medicine-Data-with-lumped-Quantity-and-Measure.xlsx)
 
