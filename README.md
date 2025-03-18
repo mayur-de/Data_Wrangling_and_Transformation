@@ -6,19 +6,19 @@
 
 ## **Project List**  
 
-`1.` [**Data Wrangling (1) - Badly Structured Data**]()
+`1.` [**01_Badly_Structured_Data_Transformation**](https://github.com/mayur-de/Data_Wrangling_and_Transformation/blob/c0ca78591639ce7eff511736e6e5fba7f1c2038c/01_Badly_Structured_Data_Transformation.ipynb)
 - **Details:** Fix poorly structured datasets and reformat for analysis. 
 - **Dataset:** [**_`Badly Structured Sales Data.xlsx`_**](https://github.com/mayur-de/Data_Wrangling_and_Transformation/blob/416e2452b2b241703eeebd3e3f9d6baa56c10273/Datasets/Badly%20Structured%20Sales%20Data.xlsx)
 
-`2.` [**Data Wrangling (2) - Column Split and Melt**]() 
+`2.` [**02_Column_Split_and_Melt_Transformation**](https://github.com/mayur-de/Data_Wrangling_and_Transformation/blob/c0ca78591639ce7eff511736e6e5fba7f1c2038c/02_Column_Split_and_Melt_Transformation.ipynb)
 - **Details:** Transform wide data into tidy, long format using splits and melts.  
 - **Dataset:** [**_`Roadmap.xlsx`_**](https://github.com/mayur-de/Data_Wrangling_and_Transformation/blob/4d144e3bee40df161dff061c3cb2376092ffdc77/Datasets/Roadmap.xlsx)
 
-`3.` [**Data Wrangling (3) - Error Detection and Cleaning**](https://github.com/mayur-de/Data_Wrangling_and_Transformation/blob/466a92eb8f0bc3812d6c2eb79a697afe94d36676/Data%20Wrangling%20(3)%20-%20Error%20Detection%20and%20Cleaning.ipynb)  
+`3.` [**03_Error_Detection_and_Cleaning**](https://github.com/mayur-de/Data_Wrangling_and_Transformation/blob/c0ca78591639ce7eff511736e6e5fba7f1c2038c/03_Error_Detection_and_Cleaning.ipynb)  
 - **Details:** Identify and fix errors, remove duplicates, and handle missing values.  
 - **Dataset:** [**_`Hospital Data with Mixed Numbers and Characters.xlsx`_**](https://github.com/mayur-de/Data_Wrangling_and_Transformation/blob/466a92eb8f0bc3812d6c2eb79a697afe94d36676/Datasets/Hospital%20Data%20with%20Mixed%20Numbers%20and%20Characters.xlsx)
 
-`4.` [**Data Wrangling (4) - Split and Explode**](https://github.com/mayur-de/Data_Wrangling_and_Transformation/blob/466a92eb8f0bc3812d6c2eb79a697afe94d36676/Data%20Wrangling%20(4)%20-%20Split%20and%20Explode.ipynb) 
+`4.` [**04_Split_and_Explode**](https://github.com/mayur-de/Data_Wrangling_and_Transformation/blob/c0ca78591639ce7eff511736e6e5fba7f1c2038c/04_Split_and_Explode.ipynb) 
 - **Details:** Extract multi-value fields into separate rows using splitting and exploding.  
 - **Dataset:** [**_`Invoices-with-Merged-Categories-and-Merged-Amounts.xlsx`_**](https://github.com/mayur-de/Data_Wrangling_and_Transformation/blob/466a92eb8f0bc3812d6c2eb79a697afe94d36676/Datasets/Invoices-with-Merged-Categories-and-Merged-Amounts.xlsx)
 
